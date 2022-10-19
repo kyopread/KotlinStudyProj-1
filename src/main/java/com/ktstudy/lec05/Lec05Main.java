@@ -1,7 +1,5 @@
 package com.ktstudy.lec05;
 
-import java.util.Random;
-
 public class Lec05Main {
 
   public static void main(String[] args) {

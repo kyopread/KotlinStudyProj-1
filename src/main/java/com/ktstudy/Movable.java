@@ -1,4 +1,4 @@
-package com.ktstudy.lec12;
+package com.ktstudy;
 
 public interface Movable {
 

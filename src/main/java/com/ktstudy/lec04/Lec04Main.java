@@ -1,7 +1,5 @@
 package com.ktstudy.lec04;
 
-import com.lannstark.lec04.JavaMoney;
-
 public class Lec04Main {
 
   public static void main(String[] args) {

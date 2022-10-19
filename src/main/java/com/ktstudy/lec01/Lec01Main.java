@@ -1,8 +1,5 @@
 package com.ktstudy.lec01;
 
-import java.util.Arrays;
-import java.util.List;
-
 public class Lec01Main {
 
   public static void main(String[] args) {

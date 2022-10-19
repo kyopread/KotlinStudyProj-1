@@ -1,7 +1,5 @@
 package com.ktstudy.lec02;
 
-import org.jetbrains.annotations.Nullable;
-
 public class Person {
 
   private final String name;

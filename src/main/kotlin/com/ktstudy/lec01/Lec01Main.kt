@@ -50,5 +50,5 @@ fun main() {
     number9 = null
 
 
-    var person = Person("김민교")
+    var person = Person("교래")
 }

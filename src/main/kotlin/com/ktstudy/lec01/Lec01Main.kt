@@ -1,6 +1,7 @@
 package com.ktstudy.lec01
 
 fun main() {
+    // 변수 다루기
 
 //    kt 에서는 타입을 컴파일러가 추론해서 적용해준다
 //    var number1 = 10L // 바꿀 수 있는 변수

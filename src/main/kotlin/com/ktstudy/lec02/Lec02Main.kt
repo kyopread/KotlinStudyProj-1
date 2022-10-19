@@ -1,6 +1,8 @@
 package com.ktstudy.lec02
 
 fun main() {
+    // null 다루기
+
     // Safe Call
     // null이 아니면 실행하고, null이면 실행하지 않는다 (그대로 null)
     val str: String? = "ABC"

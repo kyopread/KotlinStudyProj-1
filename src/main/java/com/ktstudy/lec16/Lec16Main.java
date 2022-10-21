@@ -9,6 +9,7 @@ public class Lec16Main {
 
     int number = 100;
 
+    StringUtilsKt.lastChar("ABC");
   }
 
 }
